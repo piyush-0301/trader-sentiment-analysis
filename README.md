@@ -19,9 +19,7 @@ This repository contains the completed Round-0 Assignment for the Data Science /
 To replicate this environment, inspect the analysis notebook, or run the interactive dashboard script locally, follow the steps below:
 
 Clone the repository:
-git clone [https://github.com/YOUR_GITHUB_USERNAME/trader-sentiment-analysis.git](https://github.com/YOUR_GITHUB_USERNAME/trader-sentiment-analysis.git)
-cd trader-sentiment-analysis
-
+git clone https://github.com/piyush-0301/trader-sentiment-analysis.git
 
 Install required dependencies:
 pip install -r requirements.txt
