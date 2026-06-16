@@ -15,3 +15,12 @@ To replicate this environment and run the dashboard locally, follow these steps:
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/trader-sentiment-analysis.git](https://github.com/YOUR_GITHUB_USERNAME/trader-sentiment-analysis.git)
    cd trader-sentiment-analysis
+2 **Install dependencies:**
+
+---bash
+pip install -r requirements.txt
+
+
+3. **Run the Interactive Dashboard (Bonus):**
+   ---bash
+   streamlit run app.py
