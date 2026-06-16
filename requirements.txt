@@ -3,4 +3,4 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-streamlit  # (If you choose to do the bonus)
+streamlit 
